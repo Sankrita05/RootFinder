@@ -7,7 +7,7 @@ This Flask web application calculates the roots of a quadratic equation.
 
 1. Clone the repository: 
 ```
-git clone https://github.com/SankritaPatel/RootFinder.git
+git clone https://github.com/Sankrita05/RootFinder.git
 ```
 2. Navigate to the project directory: 
 ```
