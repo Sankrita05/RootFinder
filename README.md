@@ -38,7 +38,7 @@ python app.py
 
 ## Author
 
-[Sankrita Patel](https://github.com/SankritaPatel)
+[Sankrita Patel](https://github.com/Sankrita05)
 
 ## License
 
